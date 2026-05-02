@@ -238,7 +238,7 @@ A browser window opens automatically at `http://localhost:8501`.
 
 ### Workflow
 
-1. **Record a machining session** using the Maijker sensor and fill your account details in app.py script
+1. **Record a machining session** using the Maijker sensor and fill your account details in config.py 
 2. **Download the .wav file** from the Maijker web interface
 3. **Upload the .wav file** to the dashboard via drag-and-drop
 4. **Optionally adjust the threshold** (default 0.85) using the slider
